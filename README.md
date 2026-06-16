@@ -1,8 +1,9 @@
 # E-Commerce Sales Data Cleaning & Transformation
 
 ## Project Overview
-End-to-end data cleaning and transformation project using Microsoft Excel Power Query.
-Cleaned 3 messy datasets totalling 2,058 raw rows into a professional, analysis-ready data model.
+This project focuses on cleaning, transforming, and preparing an e-commerce sales dataset for analysis using Microsoft Excel Power Query.
+
+The raw data contained multiple quality issues, including inconsistent date formats, spelling variations, mixed currency formats, duplicate records, and data spread across multiple files. The goal was to create a reliable and analysis-ready dataset through a structured ETL (Extract, Transform, Load) process.
 
 ## Files
 - `Excel_Study_Group_Project1.xlsx` — Full Power Query solution with all cleaned tables
